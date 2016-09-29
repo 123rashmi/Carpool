@@ -142,7 +142,8 @@ h1 {
 }
 
 .list-group-item-home {
-  padding: 20px;
+  padding: 64px;
+  overflow:hidden;
 }
 
 pre {
