@@ -5692,12 +5692,13 @@ h1, h2, h3, h4, h5, h6 {
     border-width: 1px;
     color: #fff;
     min-height: 50px;
-	box-shadow: 2px 1px 6px #ccc;
+	  box-shadow: 27px -3px 19px #fff;
 }
 .navbar-app .btn-icon-only .fa, .navbar-app .btn-icon-only .icon {
     font-size: 22px;
     vertical-align: middle;
 }
+.extra-pad{padding:10px 100px;}
 .navbar-app .btn, .navbar-app .btn-navbar {
     background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
     border: medium none;
@@ -5849,6 +5850,7 @@ h1, h2, h3, h4, h5, h6 {
     right: 0;
     top: 0;
     width: 100%;
+	background-color:#f80;
 }
 .scrollable-footer, .scrollable-header {
     border-left: 0 none;
@@ -5872,6 +5874,7 @@ h1, h2, h3, h4, h5, h6 {
     height: 100%;
     overflow: auto;
     width: 100%;
+	background-color:#f80;
 }
 .app-name + .scrollable, .sidebar-header + .scrollable {
     padding-top: 70px;
